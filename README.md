@@ -1,7 +1,22 @@
 # ElectroniCart Post-Pandemic Ecommerce Analysis
-Excel and SQL accessable via Github
-Tableau accessable via Tableau Public
-ElectroniCart is an electronics ecommerce service that has been in operation since 2019. From it's inception in 2019 up through 2023, they've accrued over 100K recorded transactions - collecting sales and marketing data points. In this project I performed an exploratory analysis of the data to investgate sales trends, product mix, refund rates, marketing metrics, and loyalty program efficacy to bring insights and recommendations have been collated here were intended for audiences in marketing, sales.
+Excel analysis and SQL quieries are accessable via Github
+Tableau dashboards are accessable via Tableau Public
+
+Since its establishment in 2019, ElectroniCart has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. Between 2019 and 2023, they amassed over 100K rows of transactional data rich in metrics, encompassing sales and operations, product offerings, marketing strategies, and loyalty program analytics.This project consolidates the analysis of the largely underutilized dataset, offering the companies business leaders actionable insights and recommendations to improve their business performance.
+
+The goal of this project is to conduct an exploratory analysis to understand ElectroniCart's sales performance pre and post pandeic (2019 - 2022) to form initial recommendations for marketing and inventory management teams for further areas of exploration. 
+
+Thought the company experienced a significant sales boost during the pandemic, sales have significant decrease since the pandemic. sales have decreased considerable as both order volumne and aov have fallen significantly since the height of the pandemic (2020/2021). 
+
+Insights and recommendations cover the following areas:
+-**Sales Trends:** Analysis of companies finacial performance across time period. North Star metrics used:
+  - Revenue: 
+  - Order Volume:
+  - Average Order Value (AOV): 
+-**Product Performance:** 
+-**Return Rates:**
+-**Loyalty Program Efficacy:** Assessing the performace and efficacy of the loyalty program.
+-**Marketing Effectiveness:**
 sales trends with dimensional and seasonal segmentations, loyalty program performance/efficacy, product mix
 
 Key insights and recommendations:
