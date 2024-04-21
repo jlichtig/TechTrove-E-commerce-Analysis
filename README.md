@@ -16,6 +16,8 @@ Insights and recommendations cover the following areas:
 - **Refund Rates:** Analysis of trends frequency and value of product refunds  and the monetary effects on the company.
 - **Loyalty Program Efficacy:** Assessing the performance and efficacy of the loyalty program.
 
+# About the Data
+
 # Insights
 ## **Sales trends:**
 - From 2019 to 2022, ElectroniCart accumulated a total sales revenue of **$28M**, driven by **108K orders** from customers with an **AOV of $260**.
@@ -64,5 +66,14 @@ Seasonal patterns can be observed via the fluctuation of order volume throughout
 - The Laptop product category exhibited the highest average refund rate at approximately 14%. This category also accounted for 50% of the revenue lost through refunds, totaling $1.1M across 800 refunded orders, representing 15% of the total returned orders.
 - Refund rates fluctuated from year to year, increasing from 5.7% in 2019 to 9.6% in 2020, then decreasing to 3.6% in 2021.
 
+## **Loyalty program performance:**
+- From 2019 to 2022, the loyalty program experienced significant year-over-year growth in popularity. In 2019, loyalty customers accounted for only 11% of yearly revenue. By 2021, loyalty customers surpassed non-loyalty customers in revenue share, and by 2022, they held a substantial 55% share of total revenue.
+- As of 2022, loyalty customers demonstrated a willingness to pay an average of 14% more ($30) for products compared to non-members, with an AOV of $244 versus $214 for non-members
+- From August to September 2022, non-loyalty customers regained the majority share of total revenue, which continued to increase through the end of the period, rising from a 43% share in August to 70% in December.
+
+# **Recommendations:** 
+- Based on the 2021 and 2022 performance of loyalty members who now purchase more and higher prices I would recommend we continue to support the loyalty program. However, due to the divergence in 2022 Q4 we should revisit this question at the end of Q1 2023.
+- Recommend operations team look into refund date data as all average number of days before products are refunded is 733 with minimum of 670 days.
+- Recommendation to marketing to update product descriptions of expensive products to better inform customers of products
 
 
