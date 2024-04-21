@@ -26,13 +26,13 @@ Insights and recommendations cover the following areas:
 - In 2022, as many parts of the world started to regain normalcy post-pandemic, ElectroniCart saw a **substantial 40% decline in orders** placed. Coupled with the falling AOV, this led to a **massive 46% drop in revenue (-$4.2M)**. Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
 
 **Seasonal trends:**
-- January/September/December regularly experienced high order volumes - up a respective 11%/13%/20% above the average. 
-- February/June/October regularly experience low order volumes – down a respective 19%/7%/20% below the average.
+- **January/September/December** regularly experienced **high order volumes** - up a **respective 11%/13%/20%** above the average. 
+- **February/June/October** regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
 
 Seasonal patterns can be observed via the fluctuation of order volume throughout each year. Seasonal summary:
-- Strong start in January – orders are up 11% above the monthly average.
-- Orders decrease by 27% in February.
-- Rebounding in March (+21% from February) followed a downward trend from April to June (notable growth in 2020 due to pandemic).
+- Strong start in January – orders are up **11% above the monthly average**.
+- Orders **decrease by 27%** in February.
+- Rebounding in March **(+21% from February)** followed a downward trend from April to June (notable growth in 2020 due to pandemic).
 - Steady increase of orders throughout Q3, cresting in September - 22% growth from June to September (not observed in 2022)
 - Orders dive in October - 29% MoM descent.
 - Strongest growth exhibited towards year-end, with orders increasing by 50% from October to December.
