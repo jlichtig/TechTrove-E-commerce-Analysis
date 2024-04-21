@@ -26,25 +26,25 @@ Insights and recommendations cover the following areas:
 - In 2022, as many parts of the world started to regain normalcy post-pandemic, ElectroniCart saw a **substantial 40% decline in orders** placed. Coupled with the falling AOV, this led to a **massive 46% drop in revenue (-$4.2M)**. Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
 
 **Seasonal trends:**
-- **January/September/December** regularly experienced **high order volumes** - up a **respective 11%/13%/20%** above the average. 
-- **February/June/October** regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
+- January/September/December regularly experienced **high order volumes** – up a **respective 11%/13%/20%** above the average. 
+- February/June/October regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
 
-Seasonal patterns can be observed via the fluctuation of order volume throughout each year. Seasonal summary:
+Seasonal patterns were observed in order volumes throughout each year. Seasonal summary:
 - Strong start in January – orders are up **11% above the monthly average**.
-- Orders **decrease by 27%** in February.
-- Rebounding in March **(+21% from February)** followed a downward trend from April to June (notable growth in 2020 due to pandemic).
-- Steady increase of orders throughout Q3, cresting in September - 22% growth from June to September (not observed in 2022)
-- Orders dive in October - 29% MoM descent.
-- Strongest growth exhibited towards year-end, with orders increasing by 50% from October to December.
+- Orders drop in February – **falling 27%** on average.
+- Rebounding in March **(+21%)** followed by a downward trend from April to June (**-7%** across the period) (notable growth in 2020 due to pandemic).
+- Steady increase of orders throughout Q3, cresting in September - **22% growth** from June to September (not observed in 2022)
+- Orders dive in October - **29% MoM descent**.
+- Strongest growth exhibited towards year-end, with orders **increasing by 50%** from October to December.
 
 * *In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.* *
 
 **Monthly trends:**
-- December 2020 had both the highest number of sales (4K) and the most total sales ($1.2M) as well as the second most expensive sales (AOV of $311) – this peak can likely be attributed to the compounding effect of pandemic spending with holiday sales.
-- October 2022 had the lowest number of sales (825) and least expensive sales (AOV of $216) resulting in that month having the lowest total sales ($178K) for the period (*across the period, the month of October sees a seasonal dip in numbers of orders).
+- December 2020 had both the **highest number of sales (4K)** and the **most total sales ($1.2M)** as well as the second most expensive sales (**AOV of $311**) – this peak can likely be attributed to the compounding effect of pandemic spending with holiday sales.
+- October 2022 had the **lowest number of sales (825)** and **least expensive sales (AOV of $216)** resulting in that month having the **lowest total sales ($178K)** for the period (*across the period, the month of October sees a seasonal dip in numbers of orders).
 
 **Regional trends**
-- NA and EMEA were the best performing regions, generating a respective ~$14.6M and $8.2M in revenue. Combined, purchases from the two regions accounted for 81% of total revenue.
+- NA and EMEA were the **best performing regions**, generating a **respective ~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
 - APAC customers were willing to pay the most for products, with an AOV of $279 - ~$19 higher than the average customer. However, orders from the region only accounted for 12% of the total order volume.
 
 ## **Product performance:**
