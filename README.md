@@ -73,15 +73,16 @@ Seasonal patterns were observed in order volumes throughout each year. Seasonal 
 - From August to September 2022, as order volume was falling sharply across the board, sales from non-members would begin to outpace sales of loyalty customers in a trend that would persist through the rest of the year - non-members revenue contributions rose from a **43%** in August to **70%** in December.
 
 # **Recommendations:** 
-- Recommend operations team look into refund date data as all average number of days before products are refunded is 733 with minimum of 670 days.
-- Recommendation to marketing to update product descriptions of expensive products to better inform customers of products
-- Based on the performance growth from loyalty members, I would recommend the program should continue to be supported. However, in light of the program's poor performance in late 2022, we should closely to track program KPIs moving into 2023 and reevaluate at the end of Q1 23.
-- Operations team look into refund date data as all average number of days before products are refunded is 733 with minimum of 670 days.
-- Marketing to update product descriptions of expensive products to better inform customers of products
-- Work with sales leaders and marketing to create incentives and promotional campaigns to boost order volume in historically poor performing months (February/June/October)
+## **Sales**
+- Create sales incentives and promotional campaigns to boost order volume in historically poor performing months (February/June/October)
 - Work with sales and marketing to understand what can help increase order volume in APAC region with the aim of capitalizing on the region’s willingness to purchase more expensive products
 - Remove Bose Soundsport headphones from product offerings and replace with over-the-ear style Apple AirPod Max’s. Consumers desire for Apple products while offering another style
 - Leverage consumer preference for Apple products in expansional
 - Expand monitor offering
-- Offer a payment plan to customers in aim to reduce refunds among higher priced products.
-
+  
+## **Refunds**
+- Introduce an installment payment option at checkout aimed at reducing refund requests of higher-priced products
+- Work with marketing to update product descriptions of expensive products to better inform customers of products
+  
+  ## **Loyalty Program:**
+- Based on the performance growth from loyalty members, I would recommend the program should continue to be supported. However, in light of the program's poor performance in late 2022, we should closely to track program KPIs moving into 2023 and reevaluate at the end of Q1 23.
