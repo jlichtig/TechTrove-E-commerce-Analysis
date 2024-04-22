@@ -20,7 +20,7 @@ Insights and recommendations cover the following areas:
 
 # Insights
 ## **Sales trends:**
-- From 2019 to 2022, ElectroniCart accumulated a total sales revenue of **$28M**, driven by **108K orders** from customers with an **AOV of $260**.
+- From 2019 to 2022, ElectroniCart accumulated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
 - Sales performance skyrocketed in 2020 amid the onset of the COVID-19 pandemic - number of orders **doubled** (**17K** -> **34K**), accompanied by a **significant one-third increase in AOV (+$71)**, resulting in a remarkable **163% surge in revenue**, amounting to **$10.1 million in total sales**. Consequently, 2020 emerged as the top-performing year within the period.
  - In 2021, despite achieving the **highest number of sales** at **36K orders**, **revenue dropped by $1M (-10%)** from 2020 due to a **15% decline in AOV** – this decrease marked the onset of a downward trend in AOV that persisted throughout the period, ultimately settling back to pre-pandemic levels at approximately **$230**.
 - In 2022, as many parts of the world started to regain normalcy post-pandemic, ElectroniCart saw a **substantial 40% decline in orders** placed. Coupled with the falling AOV, this led to a **massive 46% drop in revenue (-$4.2M)**. Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
