@@ -17,6 +17,14 @@ Insights and recommendations cover the following areas:
 - **Loyalty Program Efficacy:** Assessing the performance and efficacy of the loyalty program.
 
 # About the Data
+The following ERD reflects the database structure of ElectroniCarts dataset, aligning primary and foreign keys between tables: 
+- orders table: representing unique orders. Table grain = (order) id
+- order_status table: represents unique orders (provides additional operational data points) Table grain = order_id
+- customers table: representing unique customers. Table grain = (customer) id 
+- geo_lookup table: represents locational data for customers. Table grain = country
+
+
+The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed here.
 
 # Insights
 ## **Sales trends:**
