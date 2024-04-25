@@ -1,10 +1,9 @@
 # ElectroniCart Post-Pandemic Ecommerce Analysis
 Excel analysis and SQL queries are accessible via GitHub
+
 Tableau dashboards are accessible via Tableau Public
 
-Since its establishment in 2019, ElectroniCart has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. Between 2019 and 2023, they amassed over 100K rows of transactional data rich in metrics, encompassing sales and operations, product offerings, marketing strategies, and loyalty program analytics. This project consolidates the analysis of the largely underutilized dataset, offering the company's business leaders actionable insights and recommendations to improve their business performance.
-
-This project aims to conduct an exploratory analysis to understand ElectroniCart's sales performance from pre-pandemic through post-pandemic (2019 - 2022) to form initial recommendations for marketing and inventory management teams for further areas of exploration.
+Since its establishment in 2019, ElectroniCart has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on ElectroniCart's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders with actionable insights and recommendations to improve their performance.
 
 Insights and recommendations cover the following areas:
 
