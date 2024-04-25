@@ -7,16 +7,24 @@ Since its establishment in 2019, ElectroniCart has been an e-commerce platform c
 
 Insights and recommendations cover the following areas:
 
-- **Sales Trends:** Review of companies performance KPIs. North Star metrics used:
+- **Sales Trends:** Review of ElectroniCart's performance KPIs. North Star metrics used:
   - Revenue: Total sales (usd)
   - Order Volume: Number of orders placed
-  - Average Order Value (AOV):  Average amount spent (usd)  by customer per order
-- **Product Performance:**  Assessment  of product mix performance.
-- **Refund Rates:** Analysis of trends frequency and value of product refunds  and the monetary effects on the company.
+  - Average Order Value (AOV): Average amount spent (usd)  by customers per each order
+- **Product Performance:**  Review of product offerings' sales performance.
+- **Refund Rates:** Analysis of refunded products and their impact on ElectroniCarts bottom line.
 - **Loyalty Program Efficacy:** Assessing the performance and efficacy of the loyalty program.
 
 # About the Data
 The following ERD reflects the database structure of ElectroniCarts dataset, aligning primary and foreign keys between tables: 
+
+what is the min number of (table) a (other table) could have?
+OR
+A (other table grain) could have a minimum of x (table grain)
+OR 
+A  (other table grain) could be a part of how many (table grain)
+What is the minimum number of orders a customer could have? 
+
 - orders table: representing unique orders. Table grain = (order) id
 - order_status table: represents unique orders (provides additional operational data points) Table grain = order_id
 - customers table: representing unique customers. Table grain = (customer) id 
