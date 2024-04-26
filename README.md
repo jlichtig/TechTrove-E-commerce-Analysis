@@ -7,36 +7,30 @@ Since its establishment in 2019, ElectroniCart has been an e-commerce platform c
 
 Insights and recommendations cover the following areas:
 
-- **Sales Trends:** Review of ElectroniCart's performance KPIs. North Star metrics used:
+- **Sales Trends:** Review of ElectroniCart's performance across key dimensions. North Star metrics used:
   - Revenue: Total sales (usd)
   - Order Volume: Number of orders placed
-  - Average Order Value (AOV): Average amount spent (usd)  by customers per each order
+  - Average Order Value (AOV): Average amount spent (usd) by customers per order
 - **Product Performance:**  Review of product offerings' sales performance.
 - **Refund Rates:** Analysis of refunded products and their impact on ElectroniCarts bottom line.
-- **Loyalty Program Efficacy:** Assessing the performance and efficacy of the loyalty program.
+- **Loyalty Program Efficacy:** Assessing the loyalty program's performance.
 
 # About the Data
 The following ERD reflects the database structure of ElectroniCarts dataset, aligning primary and foreign keys between tables: 
+![image](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/assets/155100360/7b819634-50dd-43de-bb47-c79538217192)
 
-what is the min number of (table) a (other table) could have?
-OR
-A (other table grain) could have a minimum of x (table grain)
-OR 
-A  (other table grain) could be a part of how many (table grain)
-What is the minimum number of orders a customer could have? 
-
-- orders table: representing unique orders. Table grain = (order) id
-- order_status table: represents unique orders (provides additional operational data points) Table grain = order_id
-- customers table: representing unique customers. Table grain = (customer) id 
-- geo_lookup table: represents locational data for customers. Table grain = country
-
+Tables:
+- orders: represents unique orders. Table grain is (order) id.
+- order_status: represents unique orders (provides additional operational data points) Table grain = order_id
+- customers: represents unique customers. Table grain = (customer) id 
+- geo_lookup: represents locational data for customers. Table grain = country
 
 The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed here.
 
 # Insights
 ## **Sales trends:**
-- From 2019 to 2022, ElectroniCart accumulated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
-- Sales performance boomed in 2020 amid the onset of the COVID-19 pandemic - **number of orders doubled (17K -> 34K)**, accompanied by a **significant one-third increase in AOV (+$71)**, resulting in a remarkable **163% surge in revenue**, amounting to **$10.1 million in total sales**. Consequently, 2020 emerged as the top-performing year within the period.
+- From 2019 to 2022, ElectroniCart generated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
+- Sales performance boomed in 2020 amid the onset of the COVID-19 pandemic - **order volume doubled (17K -> 34K)** from 2019, and accompanied by a nearly one-third increase in AOV (+$71), **revenue would surge by 163%**, amounting to **$10.1 million in total sales**. Consequently, 2020 emerged as the top-performing year within the period.
  - In 2021, despite achieving the **highest number of sales** at **36K orders**, **revenue dropped by $1M (-10%)** from 2020 due to a **15% decline in AOV** – this decrease marked the onset of a downward trend in AOV that persisted throughout the period, ultimately settling back to pre-pandemic levels at approximately **$230**.
 - In 2022, as many parts of the world started to regain normalcy post-pandemic, ElectroniCart saw a **substantial 40% decline in orders** placed. Coupled with the falling AOV, this led to a **massive 46% drop in revenue (-$4.2M)**. Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
 
