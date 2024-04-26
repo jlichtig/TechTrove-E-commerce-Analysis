@@ -32,16 +32,17 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 - From 2019 to 2022, ElectroniCart generated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
 - Sales performance boomed in 2020 amid the onset of the COVID-19 pandemic - with **order volume doubling (17K -> 34K)** and **AOV increasing by nearly one-third (+$71)**, **revenue would surge by 163%**, amounting to **$10M in total sales**. Consequently, 2020 emerged as the top-performing year within the period.
  - In 2021, despite achieving the **highest number of sales** at **36K orders**, **revenue dropped by $1M (-10%)** from 2020 due to a **15% decrease in AOV** – this marked the beginning of a downward trend in AOV that persisted throughout the rest of the period.
-- From 2021 to 2022, ElectroniCart experienced a **40% reduction in order volume**, which coupled with **AOV falling 10%**, resulted in a massive **46% drop in revenue (-$4.2M)**. ElectroniCart would still outperform their 2019 sales, generating 28% more in total sales (+$1.1M). This trend could signal consumer's return to pre-pandemic spending behavior, 
+- From 2021 to 2022, ElectroniCart experienced a **40% reduction in order volume**, which coupled with AOV returning to pre-pandemic levels (**-10% to $230**), resulted in a massive **46% drop in revenue (-$4.2M)**. This YoY performance shift could signal consumer's return to pre-pandemic spending behavior.
+
 **Seasonal trends:**
 - January/September/December regularly experienced **high order volumes** – up a **respective 11%/13%/20%** above the average. 
 - February/June/October regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
 
-Seasonal patterns were observed in order volumes throughout each year. Seasonal summary:
-- Strong start in January – orders are up **11% above the monthly average**.
+Seasonal patterns were observed in order volumes throughout each year. Summary of seasonality:
+- Strong start in January – orders were up **11% above the monthly average**.
 - Orders drop in February – **falling 27%** on average.
-- Rebounding in March **(+21%)** followed by a downward trend from April to June (**-7%** across the period) (notable growth in 2020 due to pandemic).
-- Steady increase of orders throughout Q3, cresting in September - **22% growth** from June to September (not observed in 2022)
+- Rebounding in March **(+21%)** followed by a slight downward trend from April to June (**-7%** across the period). Caveat: 2020 would experience notable growth in this period as consumer spending behavior quickly changed with the onset of the pandemic).
+- Steady increase of orders throughout Q3 with the trend peaking in September - **22% growth** from June to September (not observed in 2022)
 - Orders dive in October - **29% MoM descent**.
 - Strongest growth exhibited towards year-end, with orders **increasing by 50%** from October to December.
 
