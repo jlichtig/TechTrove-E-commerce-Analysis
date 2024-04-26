@@ -31,9 +31,9 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 ## **Sales trends:**
 - From 2019 to 2022, ElectroniCart generated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
 - Sales performance boomed in 2020 amid the onset of the COVID-19 pandemic - with **order volume doubling (17K -> 34K)** and **AOV increasing by nearly one-third (+$71)**, **revenue would surge by 163%**, amounting to **$10M in total sales**. Consequently, 2020 emerged as the top-performing year within the period.
- - In 2021, despite achieving the **highest number of sales** at **36K orders**, **revenue dropped by $1M (-10%)** from 2020 due to a **15% decrease in AOV** – this marked the beginning of a downward trend in AOV that persisted throughout the rest of the period, ultimately settling back to pre-pandemic levels (**$230**).
-- In 2022, as many parts of the world began a return to normalcy, ElectroniCart saw a **substantial 40% decline in orders** placed. Coupled with the falling AOV, this led to a **massive 46% drop in revenue (-$4.2M)**. Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
-
+ - In 2021, despite achieving the **highest number of sales** at **36K orders**, **revenue dropped by $1M (-10%)** from 2020 due to a **15% decrease in AOV** – this marked the beginning of a downward trend in AOV that persisted throughout the rest of the period.
+- From 2021 to 2022, ElectroniCart experienced a **40% reduction in order volume**, coupled with AOV falling that settled back at pre-pandemic levels (**$230**), resulted in a massive **46% drop in revenue (-$4.2M)**. he yearly average AOV ultimately settling back to pre-pandemic levels (**$230**).Although yearly revenue and number of orders each remained 28% higher (+$1.1M/+~5K orders) than 2019 figures. <!-- Need to revisit -->
+ as many parts of the world began a return to normalcy,
 **Seasonal trends:**
 - January/September/December regularly experienced **high order volumes** – up a **respective 11%/13%/20%** above the average. 
 - February/June/October regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
