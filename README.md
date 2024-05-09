@@ -35,8 +35,8 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 - From 2021 to 2022, ElectroniCart experienced a **40% reduction in order volume**, which coupled with already falling AOV returning to pre-pandemic levels (**-10% to $230**), resulted in a massive **46% drop in revenue (-$4.2M)**. This YoY performance shift could signal consumer's return to pre-pandemic spending behavior.
 
 **Seasonal trends:**
-- January/September/December regularly experienced **high order volumes** – up a **respective 11%/13%/20%** above the average. 
-- February/June/October regularly experience **low order volumes** – down a **respective 19%/7%/20%** below the average.
+- January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the average. 
+- February/June/October regularly experience **low order volumes** – down a respective **19%/7%/20%** below the average.
 
 Seasonal patterns were observed in order volumes throughout each year. Summary of seasonality:
 - Strong start in January – orders were up **11% above the monthly average**.
@@ -48,13 +48,13 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 
 *In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
 
-**Monthly trends:**
+<!-- **Monthly trends:**
 - December 2020 had both the **highest number of sales (4K)** and the **most total sales ($1.2M)** as well as the second most expensive sales (**AOV of $311**) – this peak can likely be attributed to the compounding effect of pandemic spending with holiday sales.
-- October 2022 had the **lowest number of sales (825)** and **least expensive sales (AOV of $216)** resulting in that month having the **lowest total sales ($178K)** for the period (*across the period, the month of October sees a seasonal dip in numbers of orders).
+- October 2022 had the **lowest number of sales (825)** and **least expensive sales (AOV of $216)** resulting in that month having the **lowest total sales ($178K)** for the period (*across the period, the month of October sees a seasonal dip in numbers of orders). -->
 
 **Regional trends**
-- NA and EMEA were the **best performing regions**, generating a **respective ~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
-- APAC customers were willing to pay the most for products, with an AOV of $279 - ~$19 higher than the average customer. However, orders from the region only accounted for 12% of the total order volume.
+- NA and EMEA were the **best performing regions**, generating a respective **~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
+- APAC customers were willing to pay the most for products, with an AOV of $279 - **~$19 more** than the average customer. However, orders from the region only accounted for **12% of the total order volume**.
 
 ## **Product performance:**
 - Product revenue distribution was notably concentrated, as 85% ($24M) of total revenue stemmed from only three out of the eight products offered: the 27-inch 4K gaming monitor ($9.9M), Apple AirPods headphones ($7.7M), and MacBook Air laptops ($6.3M)
