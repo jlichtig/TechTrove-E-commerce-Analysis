@@ -89,14 +89,15 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Create sales incentives and promotional campaigns to boost order volume in seasonally underperforming months (February/June/October).
 - Replace poor-performing Bose Soundsport headphones with over-the-ear Apple AirPod Max - leverage consumers' preference for Apple products while expanding headphone style options.
 - Capitalize on the APAC region's willingness to purchase more expensive - launch a regionally focused ad campaign to boost order volume.
-- Expand gaming monitor offerings to include 32in monitor which is quickly becoming more popular
+- Seize the opportunity presented by the increasing popularity of video gaming by expanding your gaming monitor offerings to include 32in screens, one of the most popular sizes in the market.
   
 ## **Refunds**
-- Introduce an installment payment option at checkout aimed at reducing refund requests of higher-priced products
-- Work with marketing to update product descriptions of expensive products to better inform customers of products
+- Introduce an installment payment plan option aimed at reducing refund requests for higher-priced products.
+  - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
+- Collect 'Refund Reason' as part of the refund request form to better understand the most common drivers.
   
 ## **Loyalty Program:**
-- Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program KPIs moving into 2023 and reevaluate at the end of Q1 23.
-- Leverage the effectiveness of email marketing channel. Work with marketing to expand the email database
-- Carryout cost-benefit analysis of affiliate marketing channel (low signup rate - 18%) - consider reallocating the budget to support growth of email database or to grow social media impressions which has above average signup rate (52%) but low impressions count (946 social M / 73932 marketing channel count)
+- Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program moving into 2023 and reevaluate at the end of Q1 23.
+- Leverage the effectiveness of the email marketing channel. Work with marketing to expand the email database.
+- Carryout cost-benefit analysis of affiliate marketing channel (low signup rate - 18%) - consider reallocating the budget to support growth of email database or to grow social media impressions which has above average signup rate (52%) but low impressions count (946 social media / 73932 marketing channel count)
 
