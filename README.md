@@ -83,6 +83,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - The direct marketing channel was responsible for the most loyalty signups, bringing in **71%** (23.3K) of total signups, although its signup rate of **40%** was slightly below the average (~43.5%) 
 - Excluding customers coming in from unknown marketing channels, Email had the highest average loyalty signup rate with **59%** but was only responsible for about **one quarter of total signups** (7.8K)
 - The social media marketing channel has an above-average signup rate (52%), but only accounts for 1.5% of signups.
+- The affiliate marketing channel had both the lowest number of signups (338) as well the lowest signup rate (18% signup rate).
 
 # **Recommendations:** 
 ## **Sales**
@@ -95,9 +96,9 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Introduce an installment payment plan option aimed at reducing refund requests for higher-priced products.
   - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
 - Collect 'Refund Reason' as part of the refund request form to better understand the most common drivers.
-  
+
 ## **Loyalty Program:**
 - Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program moving into 2023 and reevaluate at the end of Q1 23.
 - Leverage the effectiveness of the email marketing channel. Work with marketing to expand the email database.
-- Carryout cost-benefit analysis of affiliate marketing channel (low signup rate - 18%) - consider reallocating the budget to support growth of email database or to grow social media impressions which has above average signup rate (52%) but low impressions count (946 social media / 73932 marketing channel count)
+- Carryout cost-benefit analysis of affiliate marketing channel - consider reallocating the budget to support growth of email database. COME BACK TO THIS
 
