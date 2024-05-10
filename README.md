@@ -86,18 +86,17 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 
 # **Recommendations:** 
 ## **Sales**
-- Create sales incentives and promotional campaigns to boost order volume in historically poor performing months (February/June/October)
-- Work with sales and marketing to understand what can help increase order volume in APAC region with the aim of capitalizing on the region’s willingness to purchase more expensive products
-- Remove Bose Soundsport headphones from product offerings and replace with over-the-ear style Apple AirPod Max’s. Consumers desire for Apple products while offering another style
-- Leverage consumer preference for Apple products in expansional
-- Expand monitor offering
+- Create sales incentives and promotional campaigns to boost order volume in seasonally underperforming months (February/June/October).
+- Replace poor-performing Bose Soundsport headphones with over-the-ear Apple AirPod Max - leverage consumers' preference for Apple products while expanding headphone style options.
+- Capitalize on the APAC region's willingness to purchase more expensive - launch a regionally focused ad campaign to boost order volume.
+- Expand gaming monitor offerings to include 32in monitor which is quickly becoming more popular
   
 ## **Refunds**
 - Introduce an installment payment option at checkout aimed at reducing refund requests of higher-priced products
 - Work with marketing to update product descriptions of expensive products to better inform customers of products
   
-  ## **Loyalty Program:**
-- Based on the performance growth from loyalty members, I would recommend the program should continue to be supported. However, in light of the program's poor performance in late 2022, we should closely to track program KPIs moving into 2023 and reevaluate at the end of Q1 23.
+## **Loyalty Program:**
+- Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program KPIs moving into 2023 and reevaluate at the end of Q1 23.
 - Leverage the effectiveness of email marketing channel. Work with marketing to expand the email database
 - Carryout cost-benefit analysis of affiliate marketing channel (low signup rate - 18%) - consider reallocating the budget to support growth of email database or to grow social media impressions which has above average signup rate (52%) but low impressions count (946 social M / 73932 marketing channel count)
 
