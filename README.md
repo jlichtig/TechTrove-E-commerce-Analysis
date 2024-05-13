@@ -1,7 +1,7 @@
 # ElectroniCart Post-Pandemic Ecommerce Analysis
-Excel analysis and SQL queries are accessible via GitHub
+MSExcel analysis and SQL queries are accessible via GitHub.
 
-Tableau dashboards are accessible via Tableau Public
+Tableau dashboards are accessible via Tableau Public.
 
 Since its establishment in 2019, ElectroniCart has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on ElectroniCart's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders with actionable insights and recommendations to improve their performance.
 
@@ -12,11 +12,11 @@ Insights and recommendations cover the following areas:
   - Order Volume: Number of orders placed
   - Average Order Value (AOV): Average amount spent (usd) by customers per order
 - **Product Performance:**  Review of product offerings' sales performance.
-- **Refund Rates:** Analysis of refunded products and their impact on ElectroniCarts bottom line.
+- **Refund Rates:** Analysis of refunded products and their impact on ElectroniCart's bottom line.
 - **Loyalty Program Efficacy:** Assessing the loyalty program's performance.
 
 # About the Data
-The following ERD reflects the database structure of ElectroniCarts dataset, aligning primary and foreign keys between tables: 
+The following ERD reflects the database structure of ElectroniCart's dataset, aligning primary and foreign keys between tables: 
 ![image](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/assets/155100360/7b819634-50dd-43de-bb47-c79538217192)
 
 Tables:
@@ -98,7 +98,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Collect 'Refund Reason' as part of the refund request form to better understand the most common drivers.
 
 ## **Loyalty Program:**
-- Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program moving into 2023 and reevaluate at the end of Q1 23.
+- Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track program moving into 2023 and re-evaluate at the end of Q1 23.
 - Leverage the effectiveness of the email marketing channel. Work with marketing to expand the email database.
 - Carryout cost-benefit analysis of affiliate marketing channel - consider reallocating the budget to support growth of email database. COME BACK TO THIS
 
