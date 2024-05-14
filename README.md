@@ -25,7 +25,7 @@ Tables:
 - customers: represents unique customers. Table grain = (customer) id 
 - geo_lookup: represents locational data for customers. Table grain = country
 
-The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed here.
+The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed hereData-Cleaning-Log.MD.
 
 # Insights
 ## **Sales trends:**
