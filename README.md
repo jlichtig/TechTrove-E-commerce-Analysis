@@ -25,7 +25,7 @@ Tables:
 - customers: represents unique customers. Table grain = (customer) id 
 - geo_lookup: represents locational data for customers. Table grain = country
 
-The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed hereData-Cleaning-Log.MD.
+The dataset was cleaned and normalized in Excel before being uploaded to a BigQuery database. A detailed log of data cleaning steps can be viewed [here](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/blob/610f1a41aa5f3fc7ba270c914d01a54b268b9935/Data-Cleaning-Log.MD).
 
 # Insights
 ## **Sales trends:**
