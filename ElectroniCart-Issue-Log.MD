@@ -6,11 +6,12 @@
 - Nonsensical date values (DELIVERY_TS/REFUND_TS)
   - Created new column ‘DELIVERY_TS_CLEANED’ and ‘REFUND_TS_CLEANED’ and removed dates predating purchase date.
   - Created new column ‘REFUND_TS_CLEANED’ and dates in future
+
 - Help columns:
-- PURCHASE_MONTH: Truncate PURCHASE_TS column by month
-- PURCHASE_YEAR: Truncate PURCHASE_TS column by year
-- PURCHASE_EXTRACT_MONTH: Converted PURCHASE_TS to only contain month name 
-- REFUNDED: Binary field to identify if orders was refunded (based on REFUND_TS)
-- REFUND_MONTH: Month of refund (based on REFUND_TS)
-- BRAND: Brand of product (based on PRODUCT_NAME)
--	REGION: Filled in missing regions and fixed other values to align with standardized values. Used vlookup to integrate into orders table.
+  - PURCHASE_MONTH: Truncate PURCHASE_TS column by month
+  - PURCHASE_YEAR: Truncate PURCHASE_TS column by year
+  - PURCHASE_EXTRACT_MONTH: Converted PURCHASE_TS to only contain month name 
+  - REFUNDED: Binary field to identify if orders was refunded (based on REFUND_TS)
+  - REFUND_MONTH: Month of refund (based on REFUND_TS)
+  - BRAND: Brand of product (based on PRODUCT_NAME)
+  -	REGION: Filled in missing regions and fixed other values to align with standardized values. Used vlookup to integrate into orders table.
