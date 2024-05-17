@@ -1,4 +1,4 @@
-# TechTrove Post-Pandemic Ecommerce Analysis
+# TechTrove E-commerce Analysis
 [MSExcel analysis](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/blob/463cfb4605246906c314f40c1cc5f196f60c83ea/ElectroniCart%20Analysis.xlsx) and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
 
 Since its establishment in 2019, TechTrove has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on TechTrove's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders with actionable insights and recommendations to improve their performance.
