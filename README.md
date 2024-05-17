@@ -1,20 +1,20 @@
-# ElectroniCart Post-Pandemic Ecommerce Analysis
+# TechTrove Post-Pandemic Ecommerce Analysis
 [MSExcel analysis](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/blob/463cfb4605246906c314f40c1cc5f196f60c83ea/ElectroniCart%20Analysis.xlsx) and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
 
-Since its establishment in 2019, ElectroniCart has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on ElectroniCart's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders with actionable insights and recommendations to improve their performance.
+Since its establishment in 2019, TechTrove has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on TechTrove's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders with actionable insights and recommendations to improve their performance.
 
 Insights and recommendations cover the following areas:
 
-- **Sales Trends:** Review of ElectroniCart's performance across key dimensions. North Star metrics used:
+- **Sales Trends:** Review of TechTrove's performance across key dimensions. North Star metrics used:
   - Revenue: Total sales (usd)
   - Order Volume: Number of orders placed
   - Average Order Value (AOV): Average amount spent (usd) by customers per order
 - **Product Performance:**  Review of product offerings' sales performance.
-- **Refund Rates:** Analysis of refunded products and their impact on ElectroniCart's bottom line.
+- **Refund Rates:** Analysis of refunded products and their impact on TechTrove's bottom line.
 - **Loyalty Program Efficacy:** Assessing the loyalty program's performance.
 
 # About the Data
-The following ERD reflects the database structure of ElectroniCart's dataset, aligning primary and foreign keys between tables: 
+The following ERD reflects the database structure of TechTrove's dataset, aligning primary and foreign keys between tables: 
 ![image](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/assets/155100360/7b819634-50dd-43de-bb47-c79538217192)
 
 Tables:
@@ -27,10 +27,10 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 
 # Insights
 ## **Sales trends:**
-- From 2019 to 2022, ElectroniCart generated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
+- From 2019 to 2022, TechTrove generated **$28M in revenue**, driven by **108K orders** from customers with an **AOV of $260**.
 - Sales performance boomed in 2020 amid the onset of the COVID-19 pandemic - **total revenue surged 163% YoY** ($3.9M -> $10.1M), with order volume **doubling** (17K -> 34K) and AOV increasing by nearly **one-third** (+$71). Consequently, 2020 emerged as the top-performing year within the period.
  - In 2021, despite achieving the **highest number of sales** at 36K orders, **revenue dropped by $1M (-10%)** from the previous year due to a **15% decrease in AOV** – this marked the beginning of a downward trend in AOV that persisted throughout the rest of the period.
-- From 2021 to 2022, ElectroniCart experienced a **40% reduction in order volume**, which coupled with already falling AOV returning to pre-pandemic levels (**-10% to $230**), resulted in a massive **46% drop in revenue (-$4.2M)**. This YoY performance shift could signal consumer's return to pre-pandemic spending behavior.
+- From 2021 to 2022, TechTrove experienced a **40% reduction in order volume**, which coupled with already falling AOV returning to pre-pandemic levels (**-10% to $230**), resulted in a massive **46% drop in revenue (-$4.2M)**. This YoY performance shift could signal consumer's return to pre-pandemic spending behavior.
 
 **Seasonal trends:**
 - January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the average. 
