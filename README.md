@@ -46,11 +46,9 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Orders dive in October - **descending 29% MoM**.
 - Strongest period growth exhibited towards year-end, with orders **increasing by 50%** from October to December.
 
-*In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
+![image](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/assets/155100360/67e8d106-4786-4d0a-bbf6-3e0cc2fe38c9)
 
-<!-- **Monthly trends:**
-- December 2020 had both the **highest number of sales (4K)** and the **most total sales ($1.2M)** as well as the second most expensive sales (**AOV of $311**) – this peak can likely be attributed to the compounding effect of pandemic spending with holiday sales.
-- October 2022 had the **lowest number of sales (825)** and **least expensive sales (AOV of $216)** resulting in that month having the **lowest total sales ($178K)** for the period (*across the period, the month of October sees a seasonal dip in numbers of orders). -->
+*In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
 
 **Regional trends**
 - NA and EMEA were the **best performing regions**, generating a respective **~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
