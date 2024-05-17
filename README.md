@@ -1,5 +1,5 @@
 # ElectroniCart Post-Pandemic Ecommerce Analysis
-MSExcel analysis and SQL queries are accessible via GitHub.
+MSExcel analysis and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
 
 Tableau dashboards are accessible via Tableau Public.
 
