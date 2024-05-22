@@ -3,7 +3,7 @@
 
 Since its establishment in 2019, TechTrove has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on TechTrove's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders actionable insights and recommendations to improve their performance.
 
-Insights and recommendations cover the following areas:
+[Insights](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/main/README.md#insights-summary) and recommendations cover the following areas:
 
 - **Sales Trends:** Review of TechTrove's performance across key dimensions. North Star metrics used:
   - Revenue: Total sales (usd)
@@ -65,7 +65,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Products with the highest refund rates:
   - ThinkPad Laptop: 14% refund rate – equating to $382K in refund loss (17% of total refund loss)
   - Macbook Air Laptop: 13.3% - equating to $746K in refund loss (33% of total refund loss)
-  - Apple iPhone: 9% - equating to $16K in refund loss (>1% of total refund loss)
+  - Apple iPhone: 9% - equating to $16K in refund loss (<1% of total refund loss)
 - Products with the highest refund loss:
   - Macbook Air Laptop: $746K
   - 27in 4K gaming monitor: $642K
