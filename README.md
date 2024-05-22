@@ -61,7 +61,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 ## **Refund rates:**
 *The following analysis of refunds aggregates refund data based on the date of purchase. The scope focuses on purchases made from 2019 – 2021 as 2022 purchases were missing refund data points.*
 - The average refund rate was **6%**, resulting in **$2.2M in lost revenue** (refund loss). This represents a loss equivalent to approximately **10%** of the total revenue ($23M) for that period.
-- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end products, and financial burden.
+- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end products, and financial hardship.
 - Products with the highest refund rates:
   - ThinkPad Laptop: 14% refund rate – equating to $382K in refund loss (17% of total refund loss)
   - Macbook Air Laptop: 13.3% - equating to $746K in refund loss (33% of total refund loss)
@@ -93,6 +93,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
   
 ## **Refunds**
 - Collect 'Refund Reason' as part of the refund request form to identify leading drivers.
+- Reduce return requests by introduce an installment payment plan option; with an average product price many consumers would likely consider to be an expensive purchase as well as the tendency for higher priced products (2 most expensive products accounted for 50% of refund loss) also could reduce possibility of buyers remorse impacting decision.
 - To reduce refunds stemming from financial hardship introduce an installment payment plan option aimed at reducing refund requests for higher-priced products.
   - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
 
