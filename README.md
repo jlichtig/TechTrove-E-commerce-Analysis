@@ -41,13 +41,13 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Strong start in January – orders were up **11% above the monthly average**.
 - Orders drop in February – **falling 27%** on average. This seasonal trend is likely a result of consumers saving to recoup from holiday purchases.
 - Rebounding in March **(+21%)** followed by a slight downward trend from April to June (**-7%** across the period). Caveat: 2020 would experience notable growth in this period as consumer spending behavior quickly changed with the onset of the pandemic).
-- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). Caveat: Trend not observed in 2022. See below for more details.
+- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). Caveat: Trend not observed in 2022. See the \* below for more details.
 - Orders dive in October - **descending 29% MoM**.
 - Strongest period growth exhibited towards year-end, with orders **increasing by 50%** from October to December. This can likely be attributed to holiday spending behavior.
   
 ![Total Revenue Trends](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/assets/155100360/a9e4ef22-e3ea-403b-add8-ea0cd063f5a1)
 
-*In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
+*\*In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume declined by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
 
 **Regional trends**
 - NA and EMEA were the **best performing regions**, generating a respective **~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
