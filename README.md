@@ -61,7 +61,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 ## **Refund rates:**
 *The following analysis of refunds aggregates refund data based on the date of purchase. The scope focuses on purchases made from 2019 – 2021 as 2022 purchases were missing refund data points.*
 - The average refund rate was **6%**, resulting in **$2.2M in lost revenue** (refund loss). This represents a loss equivalent to approximately **10%** of the total revenue ($23M) for that period.
-- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**.
+- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end products, and financial burden.
 - Products with the highest refund rates:
   - ThinkPad Laptop: 14% refund rate – equating to $382K in refund loss (17% of total refund loss)
   - Macbook Air Laptop: 13.3% - equating to $746K in refund loss (33% of total refund loss)
