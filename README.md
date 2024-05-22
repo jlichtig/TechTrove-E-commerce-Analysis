@@ -98,6 +98,5 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 
 ## **Loyalty Program:**
 - Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track the program moving into 2023 and re-evaluate at the end of Q1 23.
-<!-- Leverage the effectiveness of the email marketing channel. Work with marketing to expand the email database. -->
 - Marketing channel budget reallocation - due to the low signup rate of the affiliate marketing channel, reallocate funds to support the growth of email marketing (59% signup rate).
 
