@@ -39,11 +39,11 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 
 Seasonal patterns were observed in order volumes throughout each year. Summary of seasonality:
 - Strong start in January – orders were up **11% above the monthly average**.
-- Orders drop in February – **falling 27%** on average.
+- Orders drop in February – **falling 27%** on average. This seasonal trend is likely a result of consumers saving to recoup from holiday purchases.
 - Rebounding in March **(+21%)** followed by a slight downward trend from April to June (**-7%** across the period). Caveat: 2020 would experience notable growth in this period as consumer spending behavior quickly changed with the onset of the pandemic).
-- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). Caveat: Trend not observed in 2022.
+- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). Caveat: Trend not observed in 2022. See below for more details.
 - Orders dive in October - **descending 29% MoM**.
-- Strongest period growth exhibited towards year-end, with orders **increasing by 50%** from October to December.
+- Strongest period growth exhibited towards year-end, with orders **increasing by 50%** from October to December. This can likely be attributed to holiday spending behavior.
   
 ![Total Revenue Trends](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/assets/155100360/a9e4ef22-e3ea-403b-add8-ea0cd063f5a1)
 
