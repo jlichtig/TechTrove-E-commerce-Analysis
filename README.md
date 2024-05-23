@@ -34,15 +34,15 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 ![Yearly Trends](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/assets/155100360/4560bf25-b036-41db-b338-d7251fc83855)
 
 **Seasonal trends:**
-- January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the average. 
+- January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the average.
 - February/June/October regularly experience **low order volumes** – down a respective **19%/7%/20%** below the average.
 
 Seasonal patterns were observed in order volumes throughout each year. Summary of seasonality:
-- Strong start in January – orders were up **11% above the monthly average**.
-- Orders drop in February – **falling 27%** on average. This seasonal trend is likely a result of consumers saving to recoup from holiday purchases.
+- Strong start in January – orders were up **11% above the monthly average**. This is likely due to post-holiday shopping, where consumers spend gift money and funds received from returning unwanted gifts.
+- Orders drop in February – **falling 27%** on average. This seasonal trend is likely a result of consumers cutting back on spending after the holiday and post-holiday shopping periods.
 - Rebounding in March **(+21%)** followed by a slight downward trend from April to June (**-7%** across the period). Caveat: 2020 would experience notable growth in this period as consumer spending behavior quickly changed with the onset of the pandemic).
-- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). Caveat: Trend not observed in 2022. See the \* below for more details.
-- Orders dive in October - **descending 29% MoM**.
+- Steady increase of orders throughout Q3 with the trend peaking in September (**22% growth** from June to September). The tail end of this trend (August to September) could in partially attributed to back-to-school shopping. Caveat: Trend not observed in 2022. See the \* below for more details.
+- Orders dive in October - **descending 29% MoM**. This could be due to a combination of a pre-holiday spending pause and the conclusion of the back-to-school shopping season. 
 - Strongest period growth exhibited towards year-end, with orders **increasing by 50%** from October to December. This can likely be attributed to holiday spending behavior.
   
 ![Total Revenue Trends](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/assets/155100360/a9e4ef22-e3ea-403b-add8-ea0cd063f5a1)
@@ -57,11 +57,12 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Product revenue distribution was notably concentrated, as **85%** ($24M) of total revenue stemmed from only **three out of the eight** products offered: the 27-inch 4K gaming monitor ($9.9M), Apple AirPods headphones ($7.7M), and MacBook Air laptops ($6.3M)
 - In the headphone category, the Bose Soundsport Headphones significantly underperformed, contributing to **~0.01%** of total revenue. In contrast, consumers consistently showed a strong preference for Apple AirPods, with these headphones being the **most purchased product**, accounting for **45%** of total orders placed and commanding an average premium of **29%** over Bose Soundsport Headphones, the only other headphone offering.
 - Consumers exhibit a strong preference for Apple products, with these products collectively accounting for approximately **51%** of total revenue.
+- As mentioned earlier, TechTrove's revenue boomed 163% from 2019 to 2020, where all products offered during this period experienced significant growth. However, the laptop category of products (MacBook Air and ThinkPad Laptop) saw the most substantial increase. This is likely the result of stay-at-home orders and consequentially a shift to virtual schooling which required that students attend class via a computer device.
 
 ## **Refund rates:**
 *The following analysis of refunds aggregates refund data based on the date of purchase. The scope focuses on purchases made from 2019 – 2021 as 2022 purchases were missing refund data points.*
 - The average refund rate was **6%**, resulting in **$2.2M in lost revenue** (refund loss). This represents a loss equivalent to approximately **10%** of the total revenue ($23M) for that period.
-- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end products, and financial hardship.
+- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end (expensive) products, and financial hardship.
 - Products with the highest refund rates:
   - ThinkPad Laptop: 14% refund rate – equating to $382K in refund loss (17% of total refund loss)
   - Macbook Air Laptop: 13.3% - equating to $746K in refund loss (33% of total refund loss)
