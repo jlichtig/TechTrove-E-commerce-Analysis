@@ -94,8 +94,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
   
 ## **Refunds**
 - Collect 'Refund Reason' as part of the refund request form to identify leading drivers.
-- Reduce return requests by introduce an installment payment plan option; with an average product price many consumers would likely consider to be an expensive purchase as well as the tendency for higher priced products (2 most expensive products accounted for 50% of refund loss) also could reduce possibility of buyers remorse impacting decision.
-- To reduce refunds stemming from financial hardship introduce an installment payment plan option aimed at reducing refund requests for higher-priced products.
+- The 2 most expensive products accounted for 50% of refund loss. To reduce return requests stemming from financial hardship and buyers remorse, introduce an installment payment plan option.
   - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
 
 
