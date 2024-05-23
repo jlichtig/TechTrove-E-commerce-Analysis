@@ -121,13 +121,13 @@ ORDER BY 3 DESC;
 
 -- Section 4: Which marketing channel has the highest average signup rate for the loyalty program, and how does this compare to the channel that has the highest number of loyalty program participants? 
 
--- Use CTE to create temporary results set containing order count per product per region.
-WITH loyalty_program_count AS(
-  SELECT COUNT(customers.loyalty_program) AS total_loyalty_count
+-- Use CTE to create temporary results set containing count of customers.
+WITH total_customer_table AS(
+  SELECT COUNT(DISTINCT customers.id) AS total_customer_count
   FROM core.customers
   WHERE customers.loyalty_program = 1),
 
--- Use CTE to create temporary results set containing order count per product per region.
+-- Use CTE to create temporary results set containing average signup rate for loyalty program and number of signups per marketing channel.
 signups_table AS (
   SELECT COALESCE(marketing_channel, 'unknown') AS marketing_channel,
     ROUND(AVG(customers.loyalty_program)*100, 2) AS avg_loyalty_signup_rate,
@@ -136,12 +136,12 @@ signups_table AS (
   GROUP BY 1
   )
 
--- Reference regional_product_orders CTE to select top selling product per region.
+-- Reference total_customer_table and signups_table CTEs to select average signup rate for loyalty program, number of signups, and signup percentage per marketing channel.
 SELECT signups_table.marketing_channel,
   signups_table.avg_loyalty_signup_rate,
   signups_table.loyalty_signups,
-  ROUND((signups_table.loyalty_signups/loyalty_program_count.total_loyalty_count) * 100, 2) as signup_pct
-FROM signups_table CROSS JOIN loyalty_program_count
+  ROUND((signups_table.loyalty_signups/total_customer_table.total_customer_count) * 100, 2) as signup_pct
+FROM signups_table CROSS JOIN total_customer_table
 ORDER BY 2 DESC;
 
 -- Section 5: What were yearly trends between loyalty and non-loyalty customers? What was the revenue split between them?
