@@ -64,7 +64,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 ## **Refund rates:**
 *The following analysis of refunds aggregates refund data based on the date of purchase. The scope focuses on purchases made from 2019 – 2021 as 2022 purchases were missing refund data points.*
 - The average refund rate was **6%**, resulting in **$2.2M in lost revenue** (refund loss). This represents a loss equivalent to approximately **10%** of the total revenue ($23M) for that period.
-- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to a mix of buyer remorse, high expectations for high-end (expensive) products, and financial hardship.
+- Refund rates varied across products, ranging from **0% to 14%** for which there appears to be a positive correlation between product AOV and refund rate, suggesting that **higher-priced products** tend to have **higher refund rates**. This correlation is likely due to high expectations for higher-priced products.
 - Products with the highest refund rates:
   - ThinkPad Laptop: 14% refund rate – equating to $382K in refund loss (17% of total refund loss)
   - Macbook Air Laptop: 13.3% - equating to $746K in refund loss (33% of total refund loss)
@@ -95,7 +95,7 @@ Seasonal patterns were observed in order volumes throughout each year. Summary o
 - Seize the opportunity presented by the increasing popularity of video gaming by expanding your gaming monitor offerings to include 32in screens, one of the most popular sizes in the market.
   
 ## **Refunds**
-- Collect 'Refund Reason' as part of the refund request form to identify leading drivers.
+- Collect 'Return Reason' as part of the return request form to identify leading drivers.
 - The 2 most expensive products accounted for 50% of refund loss. To reduce return requests stemming from financial hardship and buyers remorse, introduce an installment payment plan option.
   - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
 
