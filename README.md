@@ -14,7 +14,7 @@ Insights and recommendations cover the following areas:
 - **Loyalty Program Efficacy:** Assessing the loyalty program's performance.
 
 # About the Data
-The TechTrove dataset is composed of synthetic data from an illustrative e-commerce business.
+The TechTrove dataset is composed of synthetic data from a hypothetical e-commerce business.
 
 The following ERD reflects the database structure of TechTrove's dataset, aligning primary and foreign keys between tables: 
 ![image](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/assets/155100360/7b819634-50dd-43de-bb47-c79538217192)
