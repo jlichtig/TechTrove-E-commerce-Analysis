@@ -37,15 +37,14 @@ The dataset was cleaned and normalized in Excel before being uploaded to a BigQu
 
 **Seasonal trends:**
 
-As would be expected from a consumer electronics business, TechTrove exhibited seasonal patterns which can be observed through order volume trends.
-- January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the average.
+As would be expected from a consumer electronics business, TechTrove exhibited seasonal patterns which can be observed through trends and growth of order volume.
+- January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the monthly average.
   - Order volume grew throughout Q3 with the trend peaking in September (**22% growth** on average from June to September). The tail end of this trend (August to September) had the strongest MoM growth (11%) for this period which could be attributed to back-to-school shopping. Caveat: Trend not observed in 2022. See the \* below for more details.
-  - Strongest period growth exhibited towards year-end, with orders **increasing by 50%** on average from October to December and order volume remaining high compared to the monthly average into the new year. This can likely be attributed to holiday season spending behavior as well as post-holiday shopping (January), where consumers spend gift money and funds received from returning unwanted gifts.
+  - **Strongest period of growth** exhibited towards year-end, with orders **increasing by 50%** on average from October to December. This can likely be attributed to holiday season spending behavior.
 
-- February/June/October regularly experience **low order volumes** – down a respective **19%/7%/20%** below the average.
-  - Orders drop in February – **falling 27%** on average. This seasonal trend is likely a result of consumers cutting back on spending after the holiday and post-holiday shopping periods.
-- Rebounding in March **(+21%)** followed by a slight downward trend from April to June (**-7%** across the period). Caveat: 2020 would experience notable growth in this period as consumer spending behavior quickly changed with the onset of the pandemic).
-- Orders dive in October - **descending 29% MoM**. This could be due to a combination of a pre-holiday spending pause and the conclusion of the back-to-school shopping season. 
+- February/June/October regularly experience **low order volumes** – down a respective **19%/7%/20%** below the monthly average.
+  - Orders **fell 27%** on average from January to February. This trend is likely a result of consumers cutting back on spending after the holiday and post-holiday shopping periods.
+- Largest MoM negative growth occurred from September to October where orders on average **descended 29%**. This could be due to a combination of a pre-holiday spending pause and the conclusion of the back-to-school shopping season. 
   
 ![Order Trends](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/assets/155100360/68217037-57ac-4c69-acad-9a7069f8c978)
 
