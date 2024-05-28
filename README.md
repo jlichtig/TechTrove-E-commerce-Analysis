@@ -73,7 +73,7 @@ As would be expected from a consumer electronics business, TechTrove exhibited s
   - Macbook Air Laptop: $746K
   - 27in 4K gaming monitor: $642K
   - Apple Airpod Headphones: $430K
-- The Laptop product category exhibited the highest average refund rate at approximately **14%**. This category also accounted for **50%** of the total refund loss, totaling **$1.1M** in lost sales across 800 refunded orders, representing 15% of the total returned orders.
+- The Laptop product category exhibited the highest average refund rate at approximately **14%**. This category also accounted for **50%** of the total refund loss, totaling **$1.1M** in lost sales across 800 refunded orders, representing 15% of the total refunded orders.
 - Refund rates fluctuated from year to year, increasing from **5.7%** in 2019 to **9.6%** in 2020, then decreasing to **3.6%** in 2021.
 
 ## **Loyalty program performance:**
@@ -95,8 +95,8 @@ As would be expected from a consumer electronics business, TechTrove exhibited s
 - Seize the opportunity presented by the increasing popularity of video gaming by expanding your gaming monitor offerings to include 32in screens, one of the most popular sizes in the market.
   
 ## **Refunds**
-- Collect 'Return Reason' as part of the return request form to identify leading drivers.
-- The 2 most expensive products accounted for 50% of refund loss. To reduce return requests stemming from financial hardship and buyers remorse, introduce an installment payment plan option.
+- Collect 'Refund Reason' as part of the refund request form to identify leading drivers.
+- The 2 most expensive products accounted for 50% of refund loss. To reduce refund requests stemming from financial hardship and buyers remorse, introduce an installment payment plan option.
   - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
 
 
