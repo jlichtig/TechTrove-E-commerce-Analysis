@@ -89,16 +89,13 @@ As would be expected from a consumer electronics business, TechTrove exhibited s
 
 # **Recommendations:** 
 ## **Sales**
-- Create sales incentives and promotional campaigns to boost order volume in seasonally underperforming months (February/June/October).
 - Replace poor-performing Bose Soundsport headphones with over-the-ear Apple AirPod Max - leverage consumers' preference for Apple products while expanding headphone style options.
 - Capitalize on the APAC region's willingness to purchase more expensive products - launch regionally focused marketing campaigns to boost order volume.
 - Seize the opportunity presented by the increasing popularity of video gaming by expanding your gaming monitor offerings to include 32in screens, one of the most popular sizes in the market.
+- Setup Buy Now, Pay Later program to target falling AOV.
   
 ## **Refunds**
-- Collect 'Refund Reason' as part of the refund request form to identify leading drivers.
-- The 2 most expensive products accounted for 50% of refund loss. To reduce refund requests stemming from financial hardship and buyers remorse, introduce an installment payment plan option.
-  - Additionally offer customers requesting refunds the option to retroactively participate in the installment payment plan.
-
+- Collect 'Refund Reason' as part of the refund request process to identify leading drivers. 
 
 ## **Loyalty Program:**
 - Based on the overall performance growth from loyalty members, the program should continue to be supported. However, in light of the program's subpar performance in late 2022, teams should closely track the program moving into 2023 and re-evaluate at the end of Q1 23.
