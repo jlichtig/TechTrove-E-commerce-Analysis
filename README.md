@@ -43,7 +43,7 @@ As would be expected from a consumer electronics business, TechTrove exhibited s
 
 - January/September/December regularly experienced **high order volumes** – up a respective **11%/13%/20%** above the monthly average.
 - February/June/October regularly experience **low order volumes** – down a respective **19%/7%/20%** below the monthly average.
-- **Strongest period of growth** exhibited towards year-end, with orders **increasing by 50%** on average from October to December. This can likely be attributed to holiday spending behavior.
+- **Strongest period of growth** exhibited towards year-end, with orders **increasing by 50%** on average from October to December. This can likely be attributed to holiday spending.
 - On average, orders **fell 27%** from January to February. This trend is likely a result of consumers cutting back on spending after the holiday and post-holiday shopping periods.
 - Order volume would consistently grow throughout Q3 with the trend peaking in September (**22% growth** on average from June to September). The tail end of this trend (August to September) had the strongest MoM growth (11%) for this period which could be attributed to back-to-school shopping. Caveat: Trend not observed in 2022. See the \* below for more details.
 - **Largest MoM negative growth** occurred from September to October where orders on average **decreased by 29%**. This could be due to a combination of a pre-holiday spending pause and the conclusion of the back-to-school shopping season.
