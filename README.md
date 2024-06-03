@@ -52,7 +52,7 @@ As would be expected from a consumer electronics business, TechTrove exhibited s
 
 *\*In 2022, as COVID-19 restrictions began to ease, order seasonality deviated from typical trends. In Q3, order volume decrease by 18% from June to September, trending towards the pre-pandemic levels - this could be indicative of a return to pre-pandemic consumer purchasing behavior.*
 
-**Regional trends**
+**Regional trends:**
 - NA and EMEA were the **best performing regions**, generating a respective **~$14.6M and $8.2M** in revenue. Combined, purchases from the two regions accounted for **81%** of total revenue.
 - APAC customers were willing to pay the most for products, with an AOV of $279 - **~$19 more** than the average customer. However, orders from the region only accounted for **12% of the total order volume**.
 
