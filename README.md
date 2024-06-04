@@ -1,5 +1,5 @@
 # TechTrove E-commerce Analysis
-[MS Excel analysis](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/faf835aebaedd1705d0af921b8c6759c3d27ecbb/TechTrove%20Analysis.xlsx) and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
+[MS Excel analysis](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/1545e3033e971092429751d01abf4129e8123d28/TechTrove%20Analysis.xlsx) and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
 
 Tableau dashboard can be viewed [here](https://public.tableau.com/views/TechTroveDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
 
