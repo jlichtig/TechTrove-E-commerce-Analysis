@@ -1,6 +1,8 @@
 # TechTrove E-commerce Analysis
 [MS Excel analysis](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/faf835aebaedd1705d0af921b8c6759c3d27ecbb/TechTrove%20Analysis.xlsx) and [SQL queries](https://github.com/jlichtig/ElectroniCart-Ecommerce-Analysis/tree/e6b1571bf42ee7df948def4e4f2ebd8df9cea7df/SQL-Queries) are accessible via GitHub.
 
+Tableau dashboard can be viewed [here](https://public.tableau.com/views/TechTroveDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link).
+
 Since its establishment in 2019, TechTrove has been an e-commerce platform catering to a global audience, offering a wide range of electronic products. From 2019 to 2022, they amassed over 100K rows of data on their sales, marketing efforts, and loyalty program. Having conducted an exploratory analysis on the largely underutilized dataset, this project consolidates findings on TechTrove's performance through the COVID-19 pandemic, offering the company's sales and marketing leaders actionable [insights](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/main/README.md#insights-summary) and [recommendations](https://github.com/jlichtig/TechTrove-E-commerce-Analysis/blob/main/README.md#recommendations) to improve their performance.
 
 Insights and recommendations cover the following areas:
